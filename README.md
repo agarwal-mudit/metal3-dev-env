@@ -1,6 +1,6 @@
 # Metal³ Development Environment
 
-This repository includes scripts to set up a Metal³ development environment.
+repository includes scripts to set up a Metal³ development environment.
 
 ## Build Status
 
